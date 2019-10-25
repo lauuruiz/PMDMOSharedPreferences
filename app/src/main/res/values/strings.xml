@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PMDMOSharedPreferences</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellidos">Apellidos</string>
+    <string name="email">Email</string>
+    <string name="guardar">Guardar</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="mostrar">Mostrar</string>
+    <string name="telefono">Telefono</string>
+</resources>
